@@ -1,0 +1,23 @@
+#header{
+    padding-top: 30px;
+    padding-bottom: 30px;
+   
+    margin: 0;
+}
+.icons{
+    padding: 50px;
+    display: flex;
+    justify-content: space-around;
+    
+    text-align: center;
+    font-size: 3rem;
+    
+}
+.credits{
+    display: block;
+    font-size: 2rem;
+    text-align: center;
+}
+.end{
+    font-size: 1.5rem;
+}
